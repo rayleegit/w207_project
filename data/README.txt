@@ -1,0 +1,1 @@
+This data directory contains .csv files required by the final project notebook.  These files consist of the main train.csv and test.csv datasets from Kaggle.  This directory also contains pickled versions of the classification models run in the notebook -- can be re-loaded in lieu of re-fitting the models (some of which have extended run times.
